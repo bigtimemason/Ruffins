@@ -43,7 +43,9 @@ a {
 }
 
 
-
+.w3-content {
+  overflow: hidden;
+}
 
 
 
